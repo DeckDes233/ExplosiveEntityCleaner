@@ -1,0 +1,10 @@
+name: Explosive-Entity-Cleaner
+version: ${project.version}
+main: pers.deckdes.plugins.explosiveentitycleaner.ExplosiveEntityCleaner
+api-version: 1.17
+authors: [ DeckDes ]
+description: ExplosiveEntityCleaner
+website: github
+commands:
+ tnt:
+   description: TNT open or close
